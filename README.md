@@ -13,6 +13,7 @@ The purpose of this project is to gain insight of the film industry, practicing 
 2. Expenses and Revenue to produce movie with population pyramid
 3. Length of movies with scatter plot
 4. Time of year movies released with bubble chart
+5. Location (global and domestic) where movies are shot with heat map
 - Look for technological impacts
   - Color, Sound, other camera improvements
   - Medium : VHS, DVD, Blu-Ray, streaming platforms
