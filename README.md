@@ -1,22 +1,27 @@
 ## Film-Analysis Readme
 
 ### What is this?
-I'm doing this project to better my understanding of the film industry, practicing my technical skills as well.  
+The purpose of this project is to gain insight of the film industry, practicing my technical skills along the way.  
 
 ### Technical Requirements
 - API to access an online database
 - Matplotlib and pandas to create graphs
 - Might need SQL to organize data
 
-### Which Questions to Ask
-- Volume of movies per year
-- Expenses to produce movie
-- Revenue of movies
-- Length of movies
-- Time of year movies released
-- Impact of technology
+### Graphs
+1. Volume of movies per year with line graph
+2. Expenses and Revenue to produce movie with population pyramid
+3. Length of movies with scatter plot
+4. Time of year movies released with bubble chart
+- Look for technological impacts
   - Color, Sound, other camera improvements
-  - Medium : VHS, DVD, Blu-Ray, 4k, streaming platforms
+  - Medium : VHS, DVD, Blu-Ray, streaming platforms
   
-**- Breakdown by ratings: G, PG, PG-13, R**
+**- Breakdown by ratings: G, PG, PG-13, R with pie graph**
+
+### Relationships between variables
+1. Year release x expense/revenue
+2. Rating x expense/revenue
+3. Length of movie x expense/revenue
+4. Expense x Revenue
 
