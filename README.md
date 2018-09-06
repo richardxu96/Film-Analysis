@@ -17,5 +17,5 @@ I'm doing this project to better my understanding of the film industry, practici
 - Impact of technology
   - Color, Sound, other camera improvements
   - Medium : VHS, DVD, Blu-Ray, 4k, streaming platforms
-# - Breakdown by ratings: G, PG, PG-13, R
+### - Breakdown by ratings: G, PG, PG-13, R
 
