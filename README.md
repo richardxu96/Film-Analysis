@@ -26,3 +26,6 @@ The purpose of this project is to gain insight of the film industry, practicing 
 3. Length of movie x expense/revenue
 4. Expense x Revenue
 
+###Try using D3 to make interactive graph
+-project 3 : Use Bootstrap to create Lendr Website
+- project 4: Tableau to create a cool infographic
